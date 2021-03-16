@@ -8,3 +8,9 @@ To predict the score of a student based on # of hours studied Used Linear regres
 
 The model validation has been evaluated with Goodness of Fitness - R2, MSE.
 Dataset - https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+
+Task 2 : Prediction-using-Unsupervised-ML
+
+Task : From the given 'IRIS' dataset predict the optimal number of clusters and represents it visually
+
+Data set : https://bit.ly/3kXTdox
